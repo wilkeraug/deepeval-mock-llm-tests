@@ -1,4 +1,4 @@
-# Beginner's Guide to the Mock LLM DeepEval Project
+# Guide to the Mock LLM DeepEval Project
 
 This project shows how to evaluate AI responses with
 [DeepEval](https://deepeval.com/) and pytest.
